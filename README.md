@@ -299,9 +299,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
 ### CASE 1: ON
+
  ![WhatsApp Image 2023-08-18 at 11 31 59](https://github.com/Pravinrajj/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/117917674/9627f72a-18b2-478d-b010-da9c36780ad0)
 
 ### CASE 2: OFF
+
  ![WhatsApp Image 2023-08-18 at 11 31 59](https://github.com/Pravinrajj/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/117917674/ed74359a-5d4b-4532-aaa6-51772f62a109)
 
 ## Result :
