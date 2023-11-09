@@ -105,12 +105,10 @@ int main(void)
 
 ## Output  :
 ### CASE 1: ON
-
- ![WhatsApp Image 2023-08-18 at 11 31 59](https://github.com/Pravinrajj/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/117917674/9627f72a-18b2-478d-b010-da9c36780ad0)
+![Screenshot 2023-11-09 200301](https://github.com/Pravinrajj/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/117917674/ca25f007-0d26-48cf-bba8-f2ef377377cc)
 
 ### CASE 2: OFF
-
- ![WhatsApp Image 2023-08-18 at 11 31 59](https://github.com/Pravinrajj/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/117917674/ed74359a-5d4b-4532-aaa6-51772f62a109)
+![Screenshot 2023-11-09 200328](https://github.com/Pravinrajj/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/117917674/dc3e3e42-c007-460c-acf1-f5740a27e80c)
 
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
